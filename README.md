@@ -120,11 +120,11 @@ This assignment provides a foundation for understanding how AI and Machine Learn
 
 # 👨‍🎓 Student Information
 
-**Name:** Muhammad Abdullah Jamil______________________
+**Name:** Muhammad Abdullah Jamil
 
 **Roll Number:** ______________________
 
-**Section:** AI/ML Morning______________________
+**Section:** AI/ML Morning
 
 ---
 
